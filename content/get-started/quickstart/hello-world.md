@@ -40,7 +40,7 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 3. Select **Add a README file**.
 4. Click **Create repository**.
 
-   ![Create a hello world repository](/assets/images/help/repository/hello-world-repo.png)
+   ![Create a hello world repository](/assets/images/help/repository/hello-wtu 1 1 daorld-repo.png)
 
 ## Creating a branch
 
